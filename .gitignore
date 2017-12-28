@@ -1,0 +1,33 @@
+*.orig
+*.aps
+*.bak
+*.mds.tcLS
+*.mds.tcLogs
+*.ncb
+*.opensdf
+*.pdb
+*.pjs.tcLS
+*.pjs.tcLogs
+*.sdf
+*.suo
+*.swp
+*.tcCfgExtender
+*.tcVis
+*.user
+*.vcxproj.user
+*GeneralEvents0.tlb
+*~
+*~*.docx
+Debug/
+Release/
+obj/
+
+*.wixobj
+
+# Build artifacts
+
+*.lib
+*.dll
+
+# Visual Studio 2015 cache/options directory
+.vs/
